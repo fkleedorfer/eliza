@@ -42,7 +42,6 @@
                     <includes><include>**/*</include></includes>
                     <repositoryName>eliza</repositoryName>      <!-- github repo name -->
                     <repositoryOwner>fkleedorfer</repositoryOwner>    <!-- github username  -->
-                    <userName>fkleedorfer</userName>
                 </configuration>
                 <executions>
                     <!-- run site-maven-plugin's 'site' target as part of the build's normal 'deploy' phase -->
